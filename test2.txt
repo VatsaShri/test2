@@ -1,0 +1,4 @@
+git remote -v #to get the branch name
+git status #get the status of the changes in local
+git commit -m "text" #commit to local
+git pust origin master #commit to github
