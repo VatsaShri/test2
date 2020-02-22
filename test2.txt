@@ -2,3 +2,5 @@ git remote -v #to get the branch name
 git status #get the status of the changes in local
 git commit -m "text" #commit to local
 git pust origin master #commit to github
+git config --global user.email "you@example.com" #configure your id before commit
+git config --global user.name "Your Name" #configure your id before commit
